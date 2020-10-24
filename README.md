@@ -1,2 +1,5 @@
-## Repositório "backup projeto-base". A fim de agilizar o processo de criação para início de cada projeto.
+# react-hooks_projeto-base
+Não é preciso baixar as dependências. Basta fazer:<br>
 
+`-download`<br>
+`-yarn start`
