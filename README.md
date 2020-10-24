@@ -1,2 +1,2 @@
-## Repositório "backup projeto-base" com todas as dependências. A fim de agilizar o processo de criação no início de cada projeto.
+## Repositório "backup projeto-base". A fim de agilizar o processo de criação para início de cada projeto.
 
