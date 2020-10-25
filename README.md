@@ -4,8 +4,9 @@ Não é preciso baixar as dependências. Basta fazer:<br>
 `-download`<br>
 `-yarn start`<br>
 
-Obs: <br>
-Crie um novo reposítório e vincule essa pasta ao repositório remoto:<br>
+Obs: <br> :speech_balloon:
+Criar um novo reposítório e vincula a pasta local ao repositório remoto:<br>
+`-git init`<br>
 `-git remote -v`<br>
 `-git remote add origin <repo>`<br>
 `-git add .`<br>
