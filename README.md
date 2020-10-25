@@ -14,5 +14,5 @@ Criar um novo reposítório e vincular a pasta local ao repositório remoto:<br>
 `-git push origin master --force (caso dê erro)`<br>
 
 ##### Obs2: :speech_balloon: <br> 
-Para atualizar as dependências à última versão:<br>
+Atualizar as dependências para última versão:<br>
 `-yarn upgrade-interactive --latest` 
