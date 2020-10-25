@@ -5,7 +5,7 @@ Não é preciso baixar as dependências. Basta fazer:<br>
 `-yarn start`<br>
 
 Obs: <br> :speech_balloon:
-Criar um novo reposítório e vincula a pastar local ao repositório remoto:<br>
+Criar um novo reposítório e vincular a pastar local ao repositório remoto:<br>
 `-git init`<br>
 `-git remote -v`<br>
 `-git remote add origin <repo>`<br>
