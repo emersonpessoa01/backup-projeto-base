@@ -13,7 +13,9 @@ Criar um novo reposítório e vincular a pasta local ao repositório remoto:<br>
 `-git commit -m "comentário"`<br>
 `-git push --set-upstream origin master`<br> 
 `-git push -u origin master`<br>
-
+`.`<br>
+`.`<br>
+`.`<br>
 `-git push origin master --force (caso dê erro)`<br>
 
 ##### Obs2: :speech_balloon: <br> 
