@@ -4,7 +4,7 @@ Não é preciso baixar as dependências. Basta fazer:<br>
 `-download`<br>
 `-yarn start`<br>
 
-Obs1: <br> :speech_balloon:
+# Obs1: <br> :speech_balloon:
 Criar um novo reposítório e vincular a pasta local ao repositório remoto:<br>
 `-git init`<br>
 `-git remote -v`<br>
@@ -13,6 +13,6 @@ Criar um novo reposítório e vincular a pasta local ao repositório remoto:<br>
 `-git commit -m "comentário"`<br>
 `-git push origin master --force (caso dê erro)`<br>
 
-Obs2: <br> :speech_balloon:
+# Obs2: <br> :speech_balloon:
 Para atualizar as dependências à última versão:<br>
 `-yarn upgrade-interactive --latest` 
